@@ -1,1 +1,1 @@
-## Link: https://github.com/Th3AI99la/QR-code-generator.git
+## Link: https://th3ai99la.github.io/QR-code-generator/
